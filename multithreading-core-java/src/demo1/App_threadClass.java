@@ -17,7 +17,7 @@ class Runner extends Thread{
 	
 }
 
-public class App {
+public class App_threadClass {
 
 	public static void main(String[] args) {
 		Runner runner1=new Runner();
